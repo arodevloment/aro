@@ -83,7 +83,7 @@
     "ustat": "0.0.2",
     "winston": "^3.2.1",
     "youtube-info": "^1.3.2",
-    
+    "ytdl-core": "^2.0.0"
   },
   "engines": {
     "node": "10.x"
