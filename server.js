@@ -20,7 +20,7 @@ const ms = require("ms");
 
 const fs = require('fs');
 
-const ytdl = require("ytdl-core");
+
 
 const canvas = require("canvas");
 
