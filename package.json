@@ -84,7 +84,7 @@
     "winston": "^3.2.1",
     "youtube-info": "^1.3.2",
     
-  },
+  }
   "engines": {
     "node": "10.x"
   },
