@@ -915,4 +915,4 @@ client.on("message", message => {
 ////////
 
 
-client.login("ODk4MDc5Nzc2OTAyODg1Mzc2.GtpNez.Jj589gw0sqCJCHGQZHmJpZHtO1bwZbIGsuOKJg");//tokne bot dabne
+client.login("MTA4NDQ5NDc2OTc1NDk5Njc1Ng.G4QFSj.L-UbLQDY8HNnkqxnu4u9zJUVkxwCcmuvlquKs0");//tokne bot dabne
