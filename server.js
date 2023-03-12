@@ -34,10 +34,10 @@ const YouTube = require("simple-youtube-api");
 const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
 const hastebins = require("hastebin-gen");
 const getYoutubeID = require("get-youtube-id");
-const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
+const yt_api_key = "5291fd1c787c9d186241cddf0b8521dd82d306528487f2a9a8fb66c533ecbf07";
 const pretty = require("pretty-ms");
 client.login(
-  ""
+  "MTA4NDQ5NDc2OTc1NDk5Njc1Ng.GLEeMs.5jCBBamWTMwaEiMoXs3loyc7Kwq4CLDSygBoCE"
 );
 const queue = new Map();
 var table = require("table").table;
